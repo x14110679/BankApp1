@@ -1,0 +1,7 @@
+com\mycompany\bankapp\services\CustomerService.class
+com\mycompany\bankapp\models\Account.class
+com\mycompany\bankapp\resources\AccountResource.class
+com\mycompany\bankapp\services\AccountService.class
+com\mycompany\bankapp\resources\CustomerResource.class
+com\mycompany\bankapp\models\Customer.class
+com\mycompany\bankapp\databases\Database.class
